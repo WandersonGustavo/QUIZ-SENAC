@@ -47,6 +47,18 @@ const questions =[
         answer: "Agosto",
     },
 
+    {
+        question: "Qual o time de soccer do George HARRISON?",
+        choices: ["Liverpool","Man Utd","New Castle","Leeds Utd"],
+        answer: "Liverpool",
+    },
+
+    {
+        question: "Quantos discos A FASE CLÁSSICA DO SMASHING PUMPKINS lançou?",
+        choices: ["2","3","4","5"],
+        answer: "4",
+    },
+
     
 
 ];
