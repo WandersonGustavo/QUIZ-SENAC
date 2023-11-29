@@ -38,7 +38,7 @@ const questions =[
     {
         question: "Ano de lançamento de Power Rangers Mighty Morphin?",
         choices: ["1990","1991","1992","1993"],
-        answer: "1991",
+        answer: "1993",
     },
 
     {
